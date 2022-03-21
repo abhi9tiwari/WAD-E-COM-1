@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-link {
+    color: black;
+    font-weight: 600;
+}
+
+.navbar-brand {
+    font-weight: 800;
+}
+
+.carousel-inner .carousel-item img {
+    height:553px;
+}
+
+.card {
+    border: none;
+}
+
+.parallex {
+    background-image: url(./assets/lookbook.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 100%;
+}
+
+.parallex h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.contact {
+    background-color: rgb(248, 247, 246);
+}
+
+.contact input {
+    outline: none;
+    color: gray;
+}
